@@ -29,4 +29,4 @@ The **Key Store Locator** is a web application designed to help users find nearb
 <!-- Provide detailed instructions for setting up the project locally. -->
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sahilahemad/key-store-locator.git
+   git clone https://github.com/sahilahemad/Key-Store-Locator.git
